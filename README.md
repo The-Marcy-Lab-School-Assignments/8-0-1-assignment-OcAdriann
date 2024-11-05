@@ -2,6 +2,8 @@
 
 In this assignment, you will be tasked with creating and deploying a simple Express server. The server will have four GET endpoints, two that serve HTML and two that serve raw data. One of those data endpoints will use query parameters.
 
+# My deployed link https://eight-0-1-assignment-ocadriann-1.onrender.com
+
 **Table of Contents**
 
 - [Short Responses](#short-responses)
@@ -56,7 +58,7 @@ Before continuing, make sure that these tasks are completed!
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section.
+- [ x ] Your GitHub page has a link to the deployed server in the About section.
 
 ## Part 1 — Setup
 
